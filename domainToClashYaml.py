@@ -15,7 +15,7 @@ env = jinja2.Environment(loader=template_loader)
 template = env.get_template("ecsdirect.j2")
 
 # 您的 GitHub 仓库链接
-github_repo = "https://github.com/HuanzuoSP/YourRepo"
+github_repo = "https://github.com/HuanzuoSP/proxyrules"
 
 # 获取文件名列表，排除 recorded_domains.txt
 file_names = [filename for filename in os.listdir('.') if filename.endswith('.txt') and filename != 'recorded_domains.txt']

@@ -1,8 +1,8 @@
 # NAME: ['ecsDirect.txt']
 # AUTHOR: HuanzuoSP
-# REPO: https://github.com/HuanzuoSP/YourRepo
-# UPDATED: 2023-10-16 15:01:34
-# DOMAIN-SUFFIX: 348
+# REPO: https://github.com/HuanzuoSP/proxyrules
+# UPDATED: 2023-10-16 16:29:39
+# DOMAIN-SUFFIX: 354
 payload:
     - DOMAIN,shutterstock.7eer.net
     - DOMAIN,cdn.cookielaw.org
@@ -352,4 +352,10 @@ payload:
     - DOMAIN,ipapi.co
     - DOMAIN,b.scorecardresearch.com
     - DOMAIN,data.pixologic.com
+    - DOMAIN,clashforwindows.org
+    - DOMAIN,beacon-v2.helpscout.net
+    - DOMAIN,ssogateway.chaos.com
+    - DOMAIN,ssogateway.chaosgroup.com
+    - DOMAIN,code.iconify.design
+    - DOMAIN,api.simplesvg.com
     

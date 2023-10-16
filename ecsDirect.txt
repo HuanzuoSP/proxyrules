@@ -352,3 +352,9 @@ ssogateway.chaos.com
 ssogateway.chaosgroup.com
 code.iconify.design
 api.simplesvg.com
+api.wcc.best
+panel3.touhou.tel
+travis-ci.com
+app.travis-ci.com
+api.travis-ci.com
+oss.wcc.best
