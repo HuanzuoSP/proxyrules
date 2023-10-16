@@ -346,3 +346,9 @@ www.crifan.com
 ipapi.co
 b.scorecardresearch.com
 data.pixologic.com
+clashforwindows.org
+beacon-v2.helpscout.net
+ssogateway.chaos.com
+ssogateway.chaosgroup.com
+code.iconify.design
+api.simplesvg.com
