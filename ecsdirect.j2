@@ -1,0 +1,9 @@
+# NAME: {{ name }}
+# AUTHOR: {{ author }}
+# REPO: {{ repo }}
+# UPDATED: {{ updated }}
+# DOMAIN-SUFFIX: {{ total_domains }}
+payload:
+    {% for domain in domains -%}
+    - DOMAIN-SUFFIX: {{ domain }}
+    {% endfor %}
