@@ -5,5 +5,5 @@
 # DOMAIN-SUFFIX: {{ total_domains }}
 payload:
     {% for domain in domains -%}
-    - DOMAIN-SUFFIX: {{ domain }}
+    - DOMAIN-SUFFIX,{{ domain }}
     {% endfor %}
