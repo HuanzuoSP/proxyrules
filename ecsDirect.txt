@@ -369,3 +369,4 @@ rum.browser-intake-datadoghq.com
 down.feijicloud.org
 pic.flybace.com
 www.bcuninstaller.com
+code.calibre-ebook.com
