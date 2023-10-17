@@ -366,3 +366,5 @@ js.driftt.com
 clip-studio.com
 www.clipstudio.net
 rum.browser-intake-datadoghq.com
+down.feijicloud.org
+pic.flybace.com
