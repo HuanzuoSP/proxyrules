@@ -376,3 +376,14 @@ script.crazyegg.com
 fedapush.net
 pushimg.com
 lalapush.com
+a-nomad.com
+webembeds.com
+cdn.hashnode.com
+ping.hashnode.com
+vitals.vercel-insights.com
+www.bwgss.org
+www.chenhaifei.com
+www.clash-gaming.com
+www.iosmore.com
+wiki.metacubex.one
+clash.razord.top
