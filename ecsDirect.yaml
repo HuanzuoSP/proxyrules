@@ -1,7 +1,7 @@
 # NAME: ['ecsDirect.txt']
 # AUTHOR: HuanzuoSP
 # REPO: https://github.com/HuanzuoSP/proxyrules
-# UPDATED: 2023-10-18 15:30:06
+# UPDATED: 2023-10-18 16:30:08
 # DOMAIN-SUFFIX: 389
 payload:
     - DOMAIN,shutterstock.7eer.net
