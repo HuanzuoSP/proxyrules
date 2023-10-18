@@ -1,8 +1,8 @@
 # NAME: ['ecsDirect.txt']
 # AUTHOR: HuanzuoSP
 # REPO: https://github.com/HuanzuoSP/proxyrules
-# UPDATED: 2023-10-18 01:29:59
-# DOMAIN-SUFFIX: 372
+# UPDATED: 2023-10-18 02:29:30
+# DOMAIN-SUFFIX: 373
 payload:
     - DOMAIN,shutterstock.7eer.net
     - DOMAIN,cdn.cookielaw.org
@@ -376,4 +376,5 @@ payload:
     - DOMAIN,pic.flybace.com
     - DOMAIN,www.bcuninstaller.com
     - DOMAIN,code.calibre-ebook.com
+    - DOMAIN,xd-cdn.adobecces.com
     
