@@ -391,3 +391,10 @@ blog.misaka.rest
 qingsay.com
 blog.dengxj.com
 dengxj.com
+cdn.mathjax.org
+limbopro.com
+world.crisp.help
+static.crisp.help
+clashx.pro
+iduan.me
+cdn.bootcss.net
