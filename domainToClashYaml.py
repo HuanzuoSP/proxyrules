@@ -43,7 +43,7 @@ for folder_name in folder_names:
             with open(os.path.join(folder_path, target_filename), 'w') as yaml_file:
                 yaml_file.write(env.get_template(f"{folder_name}.j2").render(clash_config))
 
-            with open(os.path.join(folder_path, filename.replace(".txt", ".yaml")), 'w') as list_file:
+            with open(os.path.join(folder_path, filename.replace(".txt", ".list")), 'w') as list_file:
                 for domain in domains:
                     if domain:
                         list_file.write(f"DOMAIN,{domain}\n")
