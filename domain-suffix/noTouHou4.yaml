@@ -1,42 +1,49 @@
-DOMAIN,falundafa.com
-DOMAIN,falundafa.cn
-DOMAIN,falundafa.org
-DOMAIN,ifjc.com
-DOMAIN,ifjc.cn
-DOMAIN,ifjc.org
-DOMAIN,minghui.com
-DOMAIN,minghui.cn
-DOMAIN,minghui.org
-DOMAIN,ntdtv.com
-DOMAIN,ntdtv.cn
-DOMAIN,ntdtv.org
-DOMAIN,open.com
-DOMAIN,open.cn
-DOMAIN,open.org
-DOMAIN,bannedboot.com
-DOMAIN,bannedboot.cn
-DOMAIN,bannedboot.org
-DOMAIN,secretchina.com
-DOMAIN,secretchina.cn
-DOMAIN,secretchina.org
-DOMAIN,tuidang.com
-DOMAIN,tuidang.cn
-DOMAIN,tuidang.org
-DOMAIN,wujieliulan.com
-DOMAIN,wujieliulan.cn
-DOMAIN,wujieliulan.org
-DOMAIN,zhuichaguoji.com
-DOMAIN,zhuichaguoji.cn
-DOMAIN,zhuichaguoji.org
-DOMAIN,24fa.com
-DOMAIN,24fa.cn
-DOMAIN,24fa.org
-DOMAIN,li-hongzhi-master.com
-DOMAIN,li-hongzhi-master.cn
-DOMAIN,li-hongzhi-master.org
-DOMAIN,voachinese.com
-DOMAIN,voachinese.cn
-DOMAIN,voachinese.org
-DOMAIN,voacantonese.com
-DOMAIN,voacantonese.cn
-DOMAIN,voacantonese.org
+# NAME: noTouHou4.yaml
+# AUTHOR: HuanzuoSP
+# REPO: https://github.com/HuanzuoSP/proxyrules/domain-suffix/noTouHou4.yaml
+# UPDATED: 2023-10-19 14:09:06
+# DOMAIN-SUFFIX: 42
+payload:
+    - DOMAIN-SUFFIX,falundafa.com
+    - DOMAIN-SUFFIX,falundafa.cn
+    - DOMAIN-SUFFIX,falundafa.org
+    - DOMAIN-SUFFIX,ifjc.com
+    - DOMAIN-SUFFIX,ifjc.cn
+    - DOMAIN-SUFFIX,ifjc.org
+    - DOMAIN-SUFFIX,minghui.com
+    - DOMAIN-SUFFIX,minghui.cn
+    - DOMAIN-SUFFIX,minghui.org
+    - DOMAIN-SUFFIX,ntdtv.com
+    - DOMAIN-SUFFIX,ntdtv.cn
+    - DOMAIN-SUFFIX,ntdtv.org
+    - DOMAIN-SUFFIX,open.com
+    - DOMAIN-SUFFIX,open.cn
+    - DOMAIN-SUFFIX,open.org
+    - DOMAIN-SUFFIX,bannedboot.com
+    - DOMAIN-SUFFIX,bannedboot.cn
+    - DOMAIN-SUFFIX,bannedboot.org
+    - DOMAIN-SUFFIX,secretchina.com
+    - DOMAIN-SUFFIX,secretchina.cn
+    - DOMAIN-SUFFIX,secretchina.org
+    - DOMAIN-SUFFIX,tuidang.com
+    - DOMAIN-SUFFIX,tuidang.cn
+    - DOMAIN-SUFFIX,tuidang.org
+    - DOMAIN-SUFFIX,wujieliulan.com
+    - DOMAIN-SUFFIX,wujieliulan.cn
+    - DOMAIN-SUFFIX,wujieliulan.org
+    - DOMAIN-SUFFIX,zhuichaguoji.com
+    - DOMAIN-SUFFIX,zhuichaguoji.cn
+    - DOMAIN-SUFFIX,zhuichaguoji.org
+    - DOMAIN-SUFFIX,24fa.com
+    - DOMAIN-SUFFIX,24fa.cn
+    - DOMAIN-SUFFIX,24fa.org
+    - DOMAIN-SUFFIX,li-hongzhi-master.com
+    - DOMAIN-SUFFIX,li-hongzhi-master.cn
+    - DOMAIN-SUFFIX,li-hongzhi-master.org
+    - DOMAIN-SUFFIX,voachinese.com
+    - DOMAIN-SUFFIX,voachinese.cn
+    - DOMAIN-SUFFIX,voachinese.org
+    - DOMAIN-SUFFIX,voacantonese.com
+    - DOMAIN-SUFFIX,voacantonese.cn
+    - DOMAIN-SUFFIX,voacantonese.org
+    

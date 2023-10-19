@@ -45,5 +45,7 @@ for folder_name in folder_names:
 
             with open(os.path.join(folder_path, filename.replace(".txt", ".list")), 'w') as list_file:
                 for domain in domains:
-                    if domain:
+                    if folder_name == "domain":
                         list_file.write(f"DOMAIN,{domain}\n")
+                    else:
+                        list_file.write(f"DOMAIN-SUFFIX,{domain}\n")
