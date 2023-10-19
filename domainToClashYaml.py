@@ -30,7 +30,7 @@ for folder_name in [folder for folder in os.listdir('.') if os.path.isdir(folder
                 "domains": domains,
             }
 
-            # 渲染模板并写入 .yaml 配置文件
+            # 创建渲染加载器 渲染模板并写入 .yaml 配置文件
             with open(os.path.join(folder_path, target_filename), 'w') as yaml_file:
                 yaml_file.write(jinja2.Environment(loader=jinja2.FileSystemLoader(searchpath=[script_dir, os.path.join(script_dir, folder_name)])).get_template(f"{folder_name}.j2").render(clash_config))
             # 写入 .list 配置文件
