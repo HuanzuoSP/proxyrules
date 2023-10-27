@@ -435,3 +435,9 @@ w3b-api.ultramobile.com
 pushpong.net
 astivysauran.com
 littlecdn.com
+ads.us.criteo.com
+rtb.da.us.criteo.com
+static.criteo.net
+imageproxy.us.criteo.net
+cat.va.us.criteo.com
+csm.us.criteo.net
