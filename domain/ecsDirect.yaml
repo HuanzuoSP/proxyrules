@@ -1,8 +1,8 @@
 # NAME: ecsDirect.yaml
 # AUTHOR: HuanzuoSP
 # REPO: https://github.com/HuanzuoSP/proxyrules/domain/ecsDirect.yaml
-# UPDATED: 2023-10-28 13:30:07
-# DOMAIN-SUFFIX: 443
+# UPDATED: 2023-10-28 14:30:06
+# DOMAIN-SUFFIX: 444
 payload:
     - DOMAIN,shutterstock.7eer.net
     - DOMAIN,cdn.cookielaw.org
@@ -447,4 +447,5 @@ payload:
     - DOMAIN,imageproxy.us.criteo.net
     - DOMAIN,cat.va.us.criteo.com
     - DOMAIN,csm.us.criteo.net
+    - DOMAIN,googleads.g.doubleclick.com
     
