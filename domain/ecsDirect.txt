@@ -441,3 +441,4 @@ static.criteo.net
 imageproxy.us.criteo.net
 cat.va.us.criteo.com
 csm.us.criteo.net
+googleads.g.doubleclick.com
