@@ -1,8 +1,8 @@
 # NAME: ecsDirect.yaml
 # AUTHOR: HuanzuoSP
 # REPO: https://github.com/HuanzuoSP/proxyrules/domain/ecsDirect.yaml
-# UPDATED: 2023-10-31 02:30:06
-# DOMAIN-SUFFIX: 444
+# UPDATED: 2023-10-31 03:30:06
+# DOMAIN-SUFFIX: 460
 payload:
     - DOMAIN,shutterstock.7eer.net
     - DOMAIN,cdn.cookielaw.org
@@ -448,4 +448,20 @@ payload:
     - DOMAIN,cat.va.us.criteo.com
     - DOMAIN,csm.us.criteo.net
     - DOMAIN,googleads.g.doubleclick.com
+    - DOMAIN,prod-global-autodetect.acompli.net
+    - DOMAIN,knowledge.hubspot.com
+    - DOMAIN,static.hsappstatic.net
+    - DOMAIN,js.usemessages.com
+    - DOMAIN,cdn2.hubspot.net
+    - DOMAIN,js.hubspotfeedback.com
+    - DOMAIN,js.hubspot.com
+    - DOMAIN,app.hubspot.com
+    - DOMAIN,www.hubspot.com
+    - DOMAIN,api.hubspot.com
+    - DOMAIN,wtcfns.hubspot.com
+    - DOMAIN,cta-service-cms2.hubspot.com
+    - DOMAIN,perf-na1.hsforms.com
+    - DOMAIN,feedback.hubapi.com
+    - DOMAIN,bam-cell.nr-data.net
+    - DOMAIN,metrics-fe-na1.hubspot.com
     
