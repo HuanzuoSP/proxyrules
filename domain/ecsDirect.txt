@@ -552,3 +552,5 @@ tracker.internetwarriors.net
 tracker.tiny-vps.com
 p1-play.edge4k.com
 t1.daumcdn.net
+tracker.yuelili.com
+tracker.sheesh.rip
