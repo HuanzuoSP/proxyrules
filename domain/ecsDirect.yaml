@@ -1,8 +1,8 @@
 # NAME: ecsDirect.yaml
 # AUTHOR: HuanzuoSP
 # REPO: https://github.com/HuanzuoSP/proxyrules/domain/ecsDirect.yaml
-# UPDATED: 2023-11-01 14:30:07
-# DOMAIN-SUFFIX: 572
+# UPDATED: 2023-11-01 15:30:07
+# DOMAIN-SUFFIX: 581
 payload:
     - DOMAIN,shutterstock.7eer.net
     - DOMAIN,cdn.cookielaw.org
@@ -576,4 +576,13 @@ payload:
     - DOMAIN,api.jsai.cc
     - DOMAIN,data.jsai.cc
     - DOMAIN,api.seeip.org
+    - DOMAIN,sdp-cfgdst-ore-prd.bda.ndmdhs.com
+    - DOMAIN,musiccenter-cdn.meta.ndmdhs.com
+    - DOMAIN,headphonesconnect-cfgdst-ore-pro.bda.ndmdhs.com
+    - DOMAIN,mads.amazon-adsystem.com
+    - DOMAIN,c.amazon-adsystem.com
+    - DOMAIN,aax-fe.amazon-adsystem.com
+    - DOMAIN,ad2.fivecdm.com
+    - DOMAIN,s.amazon-adsystem.com
+    - DOMAIN,adchk.fivecdm.com
     
