@@ -581,3 +581,7 @@ s.amazon-adsystem.com
 adchk.fivecdm.com
 code.compartmental.net
 us-west2-docker.pkg.dev
+metrics.chaosgroup.com
+docs.chaos.com
+notify.bugsnag.com
+kubernetes.feisky.xyz
