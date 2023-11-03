@@ -580,3 +580,4 @@ ad2.fivecdm.com
 s.amazon-adsystem.com
 adchk.fivecdm.com
 code.compartmental.net
+us-west2-docker.pkg.dev
