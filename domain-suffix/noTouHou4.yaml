@@ -1,7 +1,7 @@
 # NAME: noTouHou4.yaml
 # AUTHOR: HuanzuoSP
 # REPO: https://github.com/HuanzuoSP/proxyrules/domain-suffix/noTouHou4.yaml
-# UPDATED: 2023-11-03 08:30:08
+# UPDATED: 2023-11-03 09:30:10
 # DOMAIN-SUFFIX: 42
 payload:
     - DOMAIN-SUFFIX,falundafa.com
