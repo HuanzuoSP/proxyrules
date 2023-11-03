@@ -581,3 +581,7 @@ DOMAIN,s.amazon-adsystem.com
 DOMAIN,adchk.fivecdm.com
 DOMAIN,code.compartmental.net
 DOMAIN,us-west2-docker.pkg.dev
+DOMAIN,metrics.chaosgroup.com
+DOMAIN,docs.chaos.com
+DOMAIN,notify.bugsnag.com
+DOMAIN,kubernetes.feisky.xyz
