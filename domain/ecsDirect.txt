@@ -585,3 +585,4 @@ metrics.chaosgroup.com
 docs.chaos.com
 notify.bugsnag.com
 kubernetes.feisky.xyz
+chatgpt.com
