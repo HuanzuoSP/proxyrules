@@ -1,8 +1,8 @@
 # NAME: ecsDirect.yaml
 # AUTHOR: HuanzuoSP
 # REPO: https://github.com/HuanzuoSP/proxyrules/domain/ecsDirect.yaml
-# UPDATED: 2023-11-05 06:30:07
-# DOMAIN-SUFFIX: 598
+# UPDATED: 2023-11-05 07:30:07
+# DOMAIN-SUFFIX: 609
 payload:
     - DOMAIN,shutterstock.7eer.net
     - DOMAIN,cdn.cookielaw.org
@@ -602,4 +602,15 @@ payload:
     - DOMAIN,privacyportal.onetrust.com
     - DOMAIN,api.getfiddler.com
     - DOMAIN,downloads.getfiddler.com
+    - DOMAIN,identity.getfiddler.com
+    - DOMAIN,identity.telerik.com
+    - DOMAIN,img.en25.com
+    - DOMAIN,docs.telerik.com
+    - DOMAIN,fiddler2.com
+    - DOMAIN,hubs.stardock.com
+    - DOMAIN,secure.bali6nora.com
+    - DOMAIN,stardock.cachefly.net
+    - DOMAIN,stardock.onfastspring.com
+    - DOMAIN,yacd.haishan.me
+    - DOMAIN,static.canva.com
     
