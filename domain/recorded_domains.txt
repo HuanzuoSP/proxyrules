@@ -586,3 +586,13 @@ docs.chaos.com
 notify.bugsnag.com
 kubernetes.feisky.xyz
 chatgpt.com
+clashweb.com
+static.olark.com
+knrpc.olark.com
+www.7-zip.org
+www.telerik.com
+cdn.insight.sitefinity.com
+api.insight.sitefinity.com
+privacyportal.onetrust.com
+api.getfiddler.com
+downloads.getfiddler.com
