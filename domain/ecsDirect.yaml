@@ -1,8 +1,8 @@
 # NAME: ecsDirect.yaml
 # AUTHOR: HuanzuoSP
 # REPO: https://github.com/HuanzuoSP/proxyrules/domain/ecsDirect.yaml
-# UPDATED: 2023-11-05 05:30:05
-# DOMAIN-SUFFIX: 588
+# UPDATED: 2023-11-05 06:30:07
+# DOMAIN-SUFFIX: 598
 payload:
     - DOMAIN,shutterstock.7eer.net
     - DOMAIN,cdn.cookielaw.org
@@ -592,4 +592,14 @@ payload:
     - DOMAIN,notify.bugsnag.com
     - DOMAIN,kubernetes.feisky.xyz
     - DOMAIN,chatgpt.com
+    - DOMAIN,clashweb.com
+    - DOMAIN,static.olark.com
+    - DOMAIN,knrpc.olark.com
+    - DOMAIN,www.7-zip.org
+    - DOMAIN,www.telerik.com
+    - DOMAIN,cdn.insight.sitefinity.com
+    - DOMAIN,api.insight.sitefinity.com
+    - DOMAIN,privacyportal.onetrust.com
+    - DOMAIN,api.getfiddler.com
+    - DOMAIN,downloads.getfiddler.com
     

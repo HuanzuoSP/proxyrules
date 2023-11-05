@@ -596,3 +596,14 @@ api.insight.sitefinity.com
 privacyportal.onetrust.com
 api.getfiddler.com
 downloads.getfiddler.com
+identity.getfiddler.com
+identity.telerik.com
+img.en25.com
+docs.telerik.com
+fiddler2.com
+hubs.stardock.com
+secure.bali6nora.com
+stardock.cachefly.net
+stardock.onfastspring.com
+yacd.haishan.me
+static.canva.com
