@@ -607,3 +607,4 @@ stardock.cachefly.net
 stardock.onfastspring.com
 yacd.haishan.me
 static.canva.com
+statsigapi.net
