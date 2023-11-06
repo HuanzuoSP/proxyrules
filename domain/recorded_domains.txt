@@ -608,3 +608,6 @@ stardock.onfastspring.com
 yacd.haishan.me
 static.canva.com
 statsigapi.net
+steelseries.com
+updates.a-volute.com
+void.steelseries.com
