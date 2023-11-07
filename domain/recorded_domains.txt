@@ -616,3 +616,7 @@ www.3h77.com
 static.myfigurecollection.net
 redirector.gvt1.com
 www-mail.icloud-sandbox.com
+www.github-zh.com
+octocaptcha.com
+github-api.arkoselabs.com
+client-api.arkoselabs.com
