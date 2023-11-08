@@ -620,3 +620,4 @@ www.github-zh.com
 octocaptcha.com
 github-api.arkoselabs.com
 client-api.arkoselabs.com
+wangxiao.zhiliaocg.com
