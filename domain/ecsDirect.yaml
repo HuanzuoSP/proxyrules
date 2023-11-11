@@ -1,8 +1,8 @@
 # NAME: ecsDirect.yaml
 # AUTHOR: HuanzuoSP
 # REPO: https://github.com/HuanzuoSP/proxyrules/domain/ecsDirect.yaml
-# UPDATED: 2023-11-11 07:30:06
-# DOMAIN-SUFFIX: 625
+# UPDATED: 2023-11-11 08:30:04
+# DOMAIN-SUFFIX: 626
 payload:
     - DOMAIN,shutterstock.7eer.net
     - DOMAIN,cdn.cookielaw.org
@@ -629,4 +629,5 @@ payload:
     - DOMAIN,wangxiao.zhiliaocg.com
     - DOMAIN,tuna.moe
     - DOMAIN,www.up58.net
+    - DOMAIN,config.static.chaosgroup.com
     
