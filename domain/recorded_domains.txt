@@ -623,3 +623,4 @@ client-api.arkoselabs.com
 wangxiao.zhiliaocg.com
 tuna.moe
 www.up58.net
+config.static.chaosgroup.com
