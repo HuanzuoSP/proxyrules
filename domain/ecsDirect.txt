@@ -625,3 +625,9 @@ tuna.moe
 www.up58.net
 config.static.chaosgroup.com
 www.2dama.com
+www.splashtop.com
+cmp.osano.com
+st-lookup.api.splashtop.com
+files.splashtop.com
+download.splashtop.com
+consent.api.osano.com
