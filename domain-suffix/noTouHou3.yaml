@@ -1,7 +1,7 @@
 # NAME: noTouHou3.yaml
 # AUTHOR: HuanzuoSP
 # REPO: https://github.com/HuanzuoSP/proxyrules/domain-suffix/noTouHou3.yaml
-# UPDATED: 2023-11-12 23:30:05
+# UPDATED: 2023-11-13 00:30:09
 # DOMAIN-SUFFIX: 52
 payload:
     - DOMAIN-SUFFIX,beijingspring.com
