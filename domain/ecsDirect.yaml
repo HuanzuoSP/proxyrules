@@ -1,8 +1,8 @@
 # NAME: ecsDirect.yaml
 # AUTHOR: HuanzuoSP
 # REPO: https://github.com/HuanzuoSP/proxyrules/domain/ecsDirect.yaml
-# UPDATED: 2023-11-14 02:30:03
-# DOMAIN-SUFFIX: 633
+# UPDATED: 2023-11-14 03:30:05
+# DOMAIN-SUFFIX: 636
 payload:
     - DOMAIN,shutterstock.7eer.net
     - DOMAIN,cdn.cookielaw.org
@@ -637,4 +637,7 @@ payload:
     - DOMAIN,files.splashtop.com
     - DOMAIN,download.splashtop.com
     - DOMAIN,consent.api.osano.com
+    - DOMAIN,www.lonelyscreen.com
+    - DOMAIN,shop.apowersoft.info
+    - DOMAIN,checkoutshopper-live.adyen.com
     
