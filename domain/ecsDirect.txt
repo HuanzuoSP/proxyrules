@@ -631,3 +631,6 @@ st-lookup.api.splashtop.com
 files.splashtop.com
 download.splashtop.com
 consent.api.osano.com
+www.lonelyscreen.com
+shop.apowersoft.info
+checkoutshopper-live.adyen.com
