@@ -1,7 +1,7 @@
 # NAME: ecsDirect.yaml
 # AUTHOR: HuanzuoSP
 # REPO: https://github.com/HuanzuoSP/proxyrules/domain/ecsDirect.yaml
-# UPDATED: 2023-11-16 23:30:06
+# UPDATED: 2023-11-17 00:30:10
 # DOMAIN-SUFFIX: 636
 payload:
     - DOMAIN,shutterstock.7eer.net
